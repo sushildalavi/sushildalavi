@@ -100,7 +100,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
     </td>
     <td align="center" width="50%">
       <br/>
-      <img src="./assets/Reliance_Jio_Logo.svg.png" height="60" width="140" alt="Reliance Jio" />
+      <img src="./assets/Reliance_Jio_Logo.svg.png" height="90" width="90" alt="Reliance Jio" />
       <br/><br/>
       <strong>Reliance Jio</strong>
       <br/>
