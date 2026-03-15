@@ -50,8 +50,9 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/University_of_Southern_California_seal.svg/150px-University_of_Southern_California_seal.svg.png" height="90" alt="USC" />
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://logo.clearbit.com/usc.edu" height="80" width="80" alt="USC" />
       <br/><br/>
       <strong>University of Southern California</strong>
       <br/>
@@ -60,9 +61,11 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
       <sub>📍 Los Angeles, CA &nbsp;|&nbsp; 📅 2023 – 2025</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/USC-MS%20Computer%20Science-990000?style=flat-square&logoColor=white" />
+      <br/><br/>
     </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/en/9/9c/University_of_Mumbai_coat_of_arms.png" height="90" alt="University of Mumbai" />
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://logo.clearbit.com/mu.ac.in" height="80" width="80" alt="University of Mumbai" />
       <br/><br/>
       <strong>University of Mumbai</strong>
       <br/>
@@ -71,6 +74,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
       <sub>📍 Mumbai, India &nbsp;|&nbsp; 📅 2019 – 2023</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/University%20of%20Mumbai-BE%20Computer%20Engineering-0F172A?style=flat-square&logoColor=F5D061" />
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -81,8 +85,9 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/University_of_Southern_California_seal.svg/150px-University_of_Southern_California_seal.svg.png" height="80" alt="USC Norman Lear Center" />
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://logo.clearbit.com/usc.edu" height="80" width="80" alt="USC Norman Lear Center" />
       <br/><br/>
       <strong>USC Norman Lear Center</strong>
       <br/>
@@ -91,9 +96,11 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
       <sub>📍 Los Angeles, CA &nbsp;|&nbsp; 📅 2024 – Present</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/USC%20Norman%20Lear%20Center-AI%20Research%20Engineer-111827?style=flat-square&logoColor=white" />
+      <br/><br/>
     </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Reliance_Jio_Logo.svg" height="80" alt="Reliance Jio" />
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://logo.clearbit.com/jio.com" height="80" width="80" alt="Reliance Jio" />
       <br/><br/>
       <strong>Reliance Jio</strong>
       <br/>
@@ -102,6 +109,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
       <sub>📍 Mumbai, India &nbsp;|&nbsp; 📅 2022</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Reliance%20Jio-SDE%20Intern-1D4ED8?style=flat-square&logoColor=white" />
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -246,11 +254,11 @@ AI-powered system for transforming **doctor-patient conversations into structure
 ## 💬 Quote I Live By
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <i>"Consistency turns effort into identity."</i>
+  <br/>
+  <img src="https://img.shields.io/badge/-%E2%80%9C%20We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.%20%E2%80%9D-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <br/><br/>
+  <b>— Aristotle</b>
+  <br/><br/>
 </p>
 
 ---
