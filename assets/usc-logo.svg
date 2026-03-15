@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="57" fill="#990000" stroke="#FFCC00" stroke-width="4"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#FFCC00" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="60" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">USC</text>
+  <text x="60" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="10" font-weight="bold" fill="#FFCC00" text-anchor="middle" letter-spacing="3">TROJANS</text>
+</svg>
