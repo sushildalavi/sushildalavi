@@ -52,7 +52,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
   <tr>
     <td align="center" width="50%">
       <br/>
-      <img src="./assets/usc-logo.svg" height="90" width="90" alt="USC" />
+      <img src="./assets/USC_Logo.png" height="90" width="90" alt="USC" />
       <br/><br/>
       <strong>University of Southern California</strong>
       <br/>
@@ -65,7 +65,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
     </td>
     <td align="center" width="50%">
       <br/>
-      <img src="./assets/mumbai-logo.svg" height="90" width="90" alt="University of Mumbai" />
+      <img src="./assets/UofMumbai.jpeg" height="90" width="90" alt="University of Mumbai" />
       <br/><br/>
       <strong>University of Mumbai</strong>
       <br/>
@@ -87,7 +87,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
   <tr>
     <td align="center" width="50%">
       <br/>
-      <img src="./assets/usc-logo.svg" height="90" width="90" alt="USC Norman Lear Center" />
+      <img src="./assets/USC_NLC_Logo.jpeg" height="90" width="90" alt="USC Norman Lear Center" />
       <br/><br/>
       <strong>USC Norman Lear Center</strong>
       <br/>
@@ -100,7 +100,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
     </td>
     <td align="center" width="50%">
       <br/>
-      <img src="./assets/jio-logo.svg" height="60" width="140" alt="Reliance Jio" />
+      <img src="./assets/Reliance_Jio_Logo.svg.png" height="60" width="140" alt="Reliance Jio" />
       <br/><br/>
       <strong>Reliance Jio</strong>
       <br/>
