@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,4,12,14,30&text=Sushil%20Dalavi&fontSize=56&fontColor=F5D061&fontAlignY=40&desc=SDE%20·%20AI%2FML%20Engineer%20·%20Data%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0B1220&text=Sushil%20Dalavi&fontSize=56&fontColor=F5D061&fontAlignY=40&desc=SDE%20·%20AI%2FML%20Engineer%20·%20Data%20Systems&descSize=18&descAlignY=60&descAlignX=50&fontAlign=50&animation=fadeIn&stroke=F5D061&strokeWidth=1" width="100%" alt="header" />
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 I'm **Sushil Dalavi**, a **CS grad student at USC** and **AI Research Engineer at the USC Norman Lear Center**.
 
