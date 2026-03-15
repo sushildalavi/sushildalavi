@@ -52,7 +52,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
   <tr>
     <td align="center" width="50%">
       <br/>
-      <img src="https://logo.clearbit.com/usc.edu" height="80" width="80" alt="USC" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/University_of_Southern_California_seal.svg/120px-University_of_Southern_California_seal.svg.png" height="80" width="80" alt="USC" />
       <br/><br/>
       <strong>University of Southern California</strong>
       <br/>
@@ -65,7 +65,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
     </td>
     <td align="center" width="50%">
       <br/>
-      <img src="https://logo.clearbit.com/mu.ac.in" height="80" width="80" alt="University of Mumbai" />
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/University_of_Mumbai_coat_of_arms.png/120px-University_of_Mumbai_coat_of_arms.png" height="80" width="80" alt="University of Mumbai" />
       <br/><br/>
       <strong>University of Mumbai</strong>
       <br/>
@@ -87,7 +87,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
   <tr>
     <td align="center" width="50%">
       <br/>
-      <img src="https://logo.clearbit.com/usc.edu" height="80" width="80" alt="USC Norman Lear Center" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/University_of_Southern_California_seal.svg/120px-University_of_Southern_California_seal.svg.png" height="80" width="80" alt="USC Norman Lear Center" />
       <br/><br/>
       <strong>USC Norman Lear Center</strong>
       <br/>
@@ -100,7 +100,7 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
     </td>
     <td align="center" width="50%">
       <br/>
-      <img src="https://logo.clearbit.com/jio.com" height="80" width="80" alt="Reliance Jio" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Reliance_Jio_Logo.svg/200px-Reliance_Jio_Logo.svg.png" height="50" width="160" alt="Reliance Jio" />
       <br/><br/>
       <strong>Reliance Jio</strong>
       <br/>
