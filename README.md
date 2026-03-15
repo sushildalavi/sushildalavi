@@ -25,15 +25,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" />
 
 I’m **Sushil Dalavi**, a **Computer Science graduate student at USC** and an **AI Research Engineer / Research Assistant at the USC Norman Lear Center**.
 
-My interests sit at the intersection of **software engineering, AI/ML, and data systems**. I enjoy building backend-heavy products, intelligent applications, search and retrieval systems, scalable pipelines, and software that turns ideas into something people can actually use.
+My interests sit at the intersection of **software engineering, AI/ML, and data systems**. I enjoy building backend-heavy products, intelligent applications, search systems, scalable pipelines, and software that turns strong ideas into useful products.
 
 - 💼 Open to **SDE / SWE / AI/ML Engineer / Applied AI / Research Engineer** roles  
 - 🏗️ Interested in **software engineering, backend systems, APIs, and ML-powered products**  
-- 🧠 Work across **AI/ML, retrieval, NLP, data pipelines, and evaluation systems**  
+- 🧠 Work across **AI/ML, search, data pipelines, and evaluation systems**  
 - 📚 Building products like **ScholarRAG** and **MedSOAP**  
 - 🌍 Motivated by **real-world product impact**
 - ⚽ Big football fan and proud **Real Madrid** supporter  
@@ -46,10 +46,23 @@ My interests sit at the intersection of **software engineering, AI/ML, and data 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="22"> Education & Work
 
 <div align="center">
+  <img src="https://media.defense.gov/2020/Apr/28/2002543434/-1/-1/0/200428-N-NO090-1004.PNG" height="65" alt="USC Logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QoCeoy8ubGRjKVc8k9J5HJaM0TDj3y0XV0WT79rFGA&s&ec=121584908" height="65" alt="USC Seal" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/nlc-logo.jpg" height="65" alt="Norman Lear Center Logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Reliance_Jio_Logo.svg" height="65" alt="Jio Logo" />
+</div>
 
-<img src="https://img.shields.io/badge/USC-MS%20Computer%20Science-990000?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/USC%20Norman%20Lear%20Center-AI%20Research%20Engineer-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/USC-MS%20Computer%20Science-990000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/USC%20Norman%20Lear%20Center-AI%20Research%20Engineer-111827?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/University%20of%20Mumbai-BE%20Computer%20Engineering-0F172A?style=for-the-badge&logo=academia&logoColor=F5D061" />
+<img src="https://img.shields.io/badge/Jio-Former%20SDE%20Intern-1D4ED8?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20SWE%20%7C%20AI%2FML-0B1220?style=for-the-badge&logo=linkedin&logoColor=F5D061" />
 
 </div>
@@ -175,7 +188,7 @@ AI-powered system for transforming **doctor-patient conversations into structure
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2278/2278992.png" width="22"> A Quote I Like
+## <img src="https://cdn-icons-png.flaticon.com/512/2278/2278992.png" width="22"> Quote I Like
 
 <div align="center">
   <h3><i>“Consistency turns effort into identity.”</i></h3>
@@ -235,7 +248,7 @@ A proud **Real Madrid supporter** — I love the mentality, standards, legacy, a
   <img src="https://img.shields.io/badge/Backend%20Engineering-0B1220?style=for-the-badge&logo=fastapi&logoColor=F5D061" />
 </div>
 
-I’m especially interested in roles where strong **software engineering** meets **AI/ML**, **backend systems**, and **data-driven product building**.
+I’m especially interested in opportunities where strong **software engineering** meets **AI/ML**, **backend systems**, and **data-driven product building**.
 
 ---
 
