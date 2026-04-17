@@ -201,36 +201,80 @@ I architect production AI systems — AWS data platforms, hybrid retrieval pipel
   <tr>
     <td width="50%" valign="top" style="padding: 16px;">
 
-### 📘 [ScholarRAG](https://github.com/sushildalavi/ScholarRAG-A-Retrieval-Augmented-LLM-Assistant-for-Research-Paper-Discovery-and-Synthesis)
+### 🧭 [JobSense](https://github.com/sushildalavi)
 
-A full-stack research assistant for **paper discovery, semantic retrieval, synthesis, and grounded answers**.
+Durable **distributed workflow platform** — a fault-tolerant orchestration system on Temporal with **12 tool integrations**, human-in-the-loop checkpoints, and a provider-agnostic inference gateway.
 
 **Highlights**
-- Hybrid search with dense + sparse reranking
-- Citation-grounded LLM generation
-- PDF ingestion and research workflows
-- Integrated backend + frontend + retrieval pipeline
+- Temporal-based orchestration with automated retries & end-to-end observability
+- Provider-agnostic inference gateway with multi-backend failover & Redis semantic caching
+- CI regression gates blocking merges on quality or cost drift
+- Hybrid retrieval (BM25 + dense + cross-encoder) fused with Reciprocal Rank Fusion
 
 **Stack**
 
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+  </td>
+  <td width="50%" valign="top" style="padding: 16px;">
+
+### ✍️ [ScribeAI](https://github.com/sushildalavi)
+
+**Inference service with evaluation pipeline** — async FastAPI service with SSE streaming, multi-backend routing (GPT-4o, Claude, fallback), and an MLflow-tracked evaluation harness.
+
+**Highlights**
+- Graceful degradation under upstream failure across multiple LLM backends
+- MLflow-tracked evaluation: ROUGE, BLEU, BERTScore, faithfulness, leakage checks
+- Compliance-aware pipeline: **10+ PII types** redacted, pgcrypto storage, append-only audit log
+- Automated regression alerts on metric drift across versioned releases
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px;">
+
+### 📘 [ScholarRAG](https://github.com/sushildalavi)
+
+**Retrieval and data engineering system** — a hybrid retrieval pipeline for scholarly discovery with citation-aware grounding.
+
+**Highlights**
+- Dense + BM25 + RRF + MiniLM rerank lifting **MRR by 21.8%** and **nDCG@10 by 18.0%** over a 120+ query eval harness
+- Duplicate indexing reduced by **50%**, re-ingestion time by **60%** via DOI/ID/title normalization + SHA-256 content hashing
+- Answer grounding lifted from **0.505 → 0.616** faithfulness; claim support **45.4% → 85.6%**
+- Evidence-constrained generation with citation-aware prompting across heterogeneous scholarly sources
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-0B1220?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MiniLM-111111?style=flat-square&logo=huggingface&logoColor=FFD21E" />
 
   </td>
   <td width="50%" valign="top" style="padding: 16px;">
 
 ### 🏥 [MedSOAP](https://github.com/sushildalavi/Med_SOAP)
 
-AI-powered system for transforming **doctor-patient conversations into structured SOAP notes**.
+**Clinical documentation automation** — generates structured SOAP notes from doctor-patient conversations.
 
 **Highlights**
-- Clinical documentation automation
-- Medical conversation understanding
-- LLM fine-tuning and evaluation pipeline
-- Healthcare-focused AI product design
+- LLM-driven SOAP note generation with medical entity recognition
+- HIPAA-conscious architecture with audit trails
+- Fine-tuning and evaluation pipeline for clinical summarization
+- Explores healthcare-focused product design patterns
 
 **Stack**
 
