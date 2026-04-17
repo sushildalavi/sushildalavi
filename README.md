@@ -58,7 +58,7 @@ I architect production AI systems — AWS data platforms, hybrid retrieval pipel
       <br/>
       <sub><b>MS in Computer Science</b></sub>
       <br/>
-      <sub>📍 Los Angeles, CA &nbsp;|&nbsp; 📅 2023 – 2025</sub>
+      <sub>📍 Los Angeles, CA &nbsp;|&nbsp; 📅 Aug 2024 – May 2026</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/USC-MS%20Computer%20Science-990000?style=flat-square&logoColor=white" />
       <br/><br/>
@@ -71,7 +71,7 @@ I architect production AI systems — AWS data platforms, hybrid retrieval pipel
       <br/>
       <sub><b>BE in Computer Engineering</b></sub>
       <br/>
-      <sub>📍 Mumbai, India &nbsp;|&nbsp; 📅 2019 – 2023</sub>
+      <sub>📍 Mumbai, India &nbsp;|&nbsp; 📅 Jun 2019 – May 2023</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/University%20of%20Mumbai-BE%20Computer%20Engineering-0F172A?style=flat-square&logoColor=F5D061" />
       <br/><br/>
