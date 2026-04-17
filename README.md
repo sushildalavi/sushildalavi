@@ -87,32 +87,52 @@ I architect production AI systems — AWS data platforms, hybrid retrieval pipel
   <tr>
     <td align="center" width="50%">
       <br/>
-      <img src="./assets/USC_NLC_Logo.jpeg" height="90" width="90" alt="USC Norman Lear Center" />
+      <img src="./assets/USC_NLC_Logo.jpeg" height="90" width="90" alt="USC Annenberg Norman Lear Center" />
       <br/><br/>
-      <strong>USC Norman Lear Center</strong>
+      <strong>USC Annenberg Norman Lear Center</strong>
       <br/>
-      <sub><b>AI Research Engineer / Research Assistant</b></sub>
+      <sub><b>AI Engineer</b></sub>
       <br/>
-      <sub>📍 Los Angeles, CA &nbsp;|&nbsp; 📅 2024 – Present</sub>
+      <sub>📍 Los Angeles, CA &nbsp;|&nbsp; 📅 Jun 2025 – Present</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/USC%20Norman%20Lear%20Center-AI%20Research%20Engineer-111827?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/USC%20Annenberg%20NLC-AI%20Engineer-111827?style=flat-square&logoColor=white" />
       <br/><br/>
     </td>
     <td align="center" width="50%">
       <br/>
       <img src="./assets/Reliance_Jio_Logo.svg.png" height="90" width="90" alt="Reliance Jio" />
       <br/><br/>
-      <strong>Reliance Jio</strong>
+      <strong>Reliance Jio Platforms</strong>
       <br/>
-      <sub><b>Software Development Engineer Intern</b></sub>
+      <sub><b>Software Engineer</b></sub>
       <br/>
-      <sub>📍 Mumbai, India &nbsp;|&nbsp; 📅 2022</sub>
+      <sub>📍 Navi Mumbai, India &nbsp;|&nbsp; 📅 Dec 2023 – Jul 2024</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Reliance%20Jio-SDE%20Intern-1D4ED8?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Reliance%20Jio-Software%20Engineer-1D4ED8?style=flat-square&logoColor=white" />
       <br/><br/>
     </td>
   </tr>
 </table>
+
+<details>
+  <summary><b>📌 Highlights from USC Annenberg Norman Lear Center</b></summary>
+
+- Architected an **AWS data platform** (S3, Glue, SageMaker, Bedrock) ingesting, deduplicating, and normalizing **1M+ multi-region records** for downstream ML training and retrieval workloads.
+- Shipped a **multi-modal alignment system** fusing audio, speaker diarization, and caption streams — reaching **99.3% F1** and **99.9% coverage** on ground-truth evaluation.
+- Developed large-scale batch pipelines processing long-form video and audio through **Whisper ASR**, **pyannote diarization**, and model-based refinement stages.
+- Automated dataset QA, Unicode normalization, and deduplication in Python — lifting analysis-ready yield from **10,819 → 9,735 records** with full reproducibility.
+
+</details>
+
+<details>
+  <summary><b>📌 Highlights from Reliance Jio Platforms</b></summary>
+
+- Trained and deployed **ResNet-50** and **DenseNet-121** deep vision networks for medical image anomaly detection — improving recall by **35%** via transfer learning, augmentation, and loss tuning.
+- Optimized **quantized transformer inference** (BERT, GPT-2) on GPU with batched serving — cutting **p95 latency by 30%** while preserving accuracy gains.
+- Engineered **demand-forecasting microservices** (TFT, CatBoost, LSTM) over Hive SQL batch pipelines, reducing forecast **MAPE by 25%** for business-critical workloads.
+- Rolled out **shadow-testing** and **canary-release** workflows for 3 production ML upgrades, catching 2 latency regressions before fleet-wide deployment.
+
+</details>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20SWE%20%7C%20AI%2FML%20Engineer-0B1220?style=for-the-badge&logo=linkedin&logoColor=F5D061" />
