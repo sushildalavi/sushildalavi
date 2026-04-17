@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=F5D061&center=true&vCenter=true&width=950&lines=MS+Computer+Science+%40+USC;AI+Research+Engineer+%40+USC+Norman+Lear+Center;Building+AI%2FML+systems+%26+data-driven+products;Open+to+SDE+%7C+AI%2FML+%7C+Backend+Engineering+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=F5D061&center=true&vCenter=true&width=950&lines=MS+Computer+Science+%40+USC+(2024+%E2%80%93+2026);AI+Engineer+%40+USC+Annenberg+Norman+Lear+Center;Architecting+AWS+data+platforms+%26+hybrid+retrieval+systems;Shipping+multi-modal+ML+%26+production+LLM+inference;Open+to+SDE+%7C+AI%2FML+%7C+Backend+Engineering+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,20 +26,20 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-I'm **Sushil Dalavi**, a **CS grad student at USC** and **AI Research Engineer at the USC Norman Lear Center**.
+I'm **Sushil Dalavi**, an **AI Engineer at the USC Annenberg Norman Lear Center** and an **MS in Computer Science candidate at USC** (2024 – 2026).
 
-My interests sit at the intersection of **software engineering, AI/ML, and data systems** — building backend-heavy products, intelligent applications, semantic search systems, and scalable pipelines.
+I architect production AI systems — AWS data platforms, hybrid retrieval pipelines, distributed LLM workflows, and multi-modal ML — with an emphasis on measurable outcomes, reliability, and reproducibility.
 
 <br/>
 
 | | |
 |:---:|:---|
 | 💼 | Open to **SDE / SWE / AI·ML Engineer / Applied AI** roles |
-| 🏗️ | Backend systems, APIs, ML-powered products |
-| 🧠 | AI/ML, search, data pipelines, evaluation |
-| 📚 | Building **ScholarRAG** and **MedSOAP** |
+| 🏗️ | AWS data platforms, distributed workflows, LLM inference gateways |
+| 🧠 | Hybrid retrieval, reranking, MLOps, multi-modal alignment |
+| 📚 | Building **JobSense**, **ScribeAI**, and **ScholarRAG** |
 | 🌍 | Motivated by real-world product impact |
-| ⚽ | Big football fan — proud **Real Madrid** supporter |
+| ⚽ | Proud **Real Madrid** supporter |
 | 🍥 | Huge anime geek |
 
 <br clear="right"/>
