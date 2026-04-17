@@ -145,52 +145,73 @@ I architect production AI systems — AWS data platforms, hybrid retrieval pipel
 ### Languages
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,typescript,javascript,bash&theme=dark" />
   &nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" alt="C++" title="C++" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C" title="C" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=F5D061" />
 </p>
 
-### Frameworks & Backend
+### ML & Deep Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs,vite&theme=dark" />
-</p>
-
-### Databases & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,linux&theme=dark" />
-</p>
-
-### AI / ML / Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=4FC3F7" />
-  <img src="https://img.shields.io/badge/FAISS-0B1220?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0B1220?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-0B1220?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0B1220?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
+  <img src="https://img.shields.io/badge/Quantization-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Distributed%20Training-0B1220?style=for-the-badge&logoColor=F5D061" />
+</p>
+
+### LLMs & Retrieval
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Hybrid%20Retrieval-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Reranking-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Function%20Calling-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Structured%20Outputs-0B1220?style=for-the-badge&logoColor=F5D061" />
   <img src="https://img.shields.io/badge/pgvector-0B1220?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-0B1220?style=for-the-badge&logo=qdrant&logoColor=DC244C" />
+  <img src="https://img.shields.io/badge/RAGAS-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Claude-0B1220?style=for-the-badge&logo=anthropic&logoColor=D97757" />
   <img src="https://img.shields.io/badge/OpenAI-0B1220?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### Cloud & Dev Tools
+### Backend & Data Systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20S3-0B1220?style=for-the-badge&logo=amazons3&logoColor=F5D061" />
-  <img src="https://img.shields.io/badge/AWS%20Glue-0B1220?style=for-the-badge&logo=amazonaws&logoColor=F5D061" />
-  <img src="https://img.shields.io/badge/AWS%20Athena-0B1220?style=for-the-badge&logo=amazonaws&logoColor=F5D061" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,mongodb,kafka&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Temporal-0B1220?style=for-the-badge&logo=temporal&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-0B1220?style=for-the-badge&logo=grpc&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/REST-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/SSE-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Spark-0B1220?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/S3-0B1220?style=for-the-badge&logo=amazons3&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/Glue-0B1220?style=for-the-badge&logo=amazonaws&logoColor=F5D061" />
   <img src="https://img.shields.io/badge/SageMaker-0B1220?style=for-the-badge&logo=amazonaws&logoColor=F5D061" />
-  <img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Postman-0B1220?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Bedrock-0B1220?style=for-the-badge&logo=amazonaws&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0B1220?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Prometheus-0B1220?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
+  <img src="https://img.shields.io/badge/Grafana-0B1220?style=for-the-badge&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Airflow-0B1220?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
+</p>
+
+### AI-Assisted Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-0B1220?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Cursor-0B1220?style=for-the-badge&logoColor=F5D061" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0B1220?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-0B1220?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
