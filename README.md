@@ -1,30 +1,43 @@
 # Sushil Dalavi
 
-Software engineer focused on distributed systems, backend services, AI infrastructure, and developer tooling. I enjoy working on systems where correctness, observability, and performance matter as much as the feature itself.
+I'm a software engineer, and I finished my MS in Computer Science at USC in May 2026. I mostly build backend and
+distributed systems, with a good amount of retrieval and model serving work alongside.
 
-## Interests
+## Things I've built
 
-- Distributed storage, replication, and failure recovery
-- Backend services, APIs, and developer infrastructure
-- Model serving, retrieval systems, and evaluation tooling
-- Performance work measured with reproducible tests
+### [AegisFS](https://github.com/sushildalavi/aegisfs)
 
-## Selected projects
+A distributed file system in C++20. Each file is kept on three nodes, any node can take a request, and there is no
+metadata server. I built it to learn consistent hashing, gossip membership and crash-safe writes by implementing them.
 
-- [AegisFS](https://github.com/sushildalavi/aegisfs) — C++20 distributed file system with replicated segments, checksummed manifests, consistent-hash placement, and TLS-secured nodes.
-- [nanoserve](https://github.com/sushildalavi/nanoserve) — Small language-model serving system with an engine, HTTP API, batching, and benchmark tooling.
-- [Sourcery](https://github.com/sushildalavi/sourcery) — Retrieval and review workspace with a backend, evaluation tooling, and documented architecture decisions.
-- [Sidequest](https://github.com/sushildalavi/Sidequest) — Location-aware recommendation service with spatial queries and benchmark coverage.
-- [SyncSpace](https://github.com/sushildalavi/SyncSpace) — Collaborative workspace application with browser and service-level tests.
+### [SyncSpace](https://github.com/sushildalavi/SyncSpace)
+
+A collaborative text editor that lets you keep typing when your connection drops. Yjs merges the edits, PostgreSQL
+stores them and Redis passes them between API servers. Written in TypeScript with Next.js and NestJS.
+
+### [nanoserve](https://github.com/sushildalavi/nanoserve)
+
+A small LLM serving engine for Apple Silicon, with its own scheduler and decode loop on top of PyTorch. It runs
+TinyLlama and has benchmarks against Hugging Face, llama.cpp and MLX.
+
+### [Sourcery](https://github.com/sushildalavi/sourcery)
+
+Ask questions about research papers and get answers with inline citations. It searches uploaded PDFs or public sources
+such as arXiv and OpenAlex, then scores how well the cited passages support the answer. FastAPI, pgvector and React.
+
+### [Sidequest](https://github.com/sushildalavi/Sidequest)
+
+A map for finding places, saving them and turning them into a plan. Spring Boot and Angular, with PostGIS for
+nearby-place queries.
 
 ## Background
 
-- MS in Computer Science, University of Southern California — completed May 2026
-- BE in Computer Engineering, University of Mumbai — completed 2023
-- Software engineering and AI infrastructure work at USC Annenberg, June 2025–May 2026
-- Software Engineer at Reliance Jio, December 2023–July 2024
+- USC Annenberg, Norman Lear Center (June 2025 to May 2026): AI infrastructure, mainly data pipelines and
+  validation for multilingual social and media datasets.
+- Reliance Jio (December 2023 to July 2024): backend services in Java and Kotlin.
+- University of Southern California: MS in Computer Science, May 2026.
+- University of Mumbai: BE in Computer Engineering, 2023.
 
-## Contact
+Away from the keyboard it's usually Real Madrid, anime, music, swimming or table tennis.
 
-- [LinkedIn](https://www.linkedin.com/in/sushildalavi/)
-- [Email](mailto:sushildalavi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sushildalavi/) · [Website](https://sushildalavi.dev) · [Email](mailto:sushildalavi@gmail.com)
