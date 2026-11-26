@@ -5,12 +5,12 @@ distributed systems, with a good amount of retrieval and model serving work alon
 
 ## Things I've built
 
-### [AegisFS](https://github.com/sushildalavi/aegisfs)
+### [aegisfs](https://github.com/sushildalavi/aegisfs)
 
 A distributed file system in C++20. Each file is kept on three nodes, any node can take a request, and there is no
 metadata server. I built it to learn consistent hashing, gossip membership and crash-safe writes by implementing them.
 
-### [SyncSpace](https://github.com/sushildalavi/SyncSpace)
+### [syncspace](https://github.com/sushildalavi/syncspace)
 
 A collaborative text editor that lets you keep typing when your connection drops. Yjs merges the edits, PostgreSQL
 stores them and Redis passes them between API servers. Written in TypeScript with Next.js and NestJS.
@@ -20,12 +20,12 @@ stores them and Redis passes them between API servers. Written in TypeScript wit
 A small LLM serving engine for Apple Silicon, with its own scheduler and decode loop on top of PyTorch. It runs
 TinyLlama and has benchmarks against Hugging Face, llama.cpp and MLX.
 
-### [Sourcery](https://github.com/sushildalavi/sourcery)
+### [sourcery](https://github.com/sushildalavi/sourcery)
 
 Ask questions about research papers and get answers with inline citations. It searches uploaded PDFs or public sources
 such as arXiv and OpenAlex, then scores how well the cited passages support the answer. FastAPI, pgvector and React.
 
-### [Sidequest](https://github.com/sushildalavi/Sidequest)
+### [sidequest](https://github.com/sushildalavi/sidequest)
 
 A map for finding places, saving them and turning them into a plan. Spring Boot and Angular, with PostGIS for
 nearby-place queries.
